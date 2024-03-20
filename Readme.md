@@ -6,11 +6,11 @@ This is an application built in typescript to learn about DDD and some patterns.
 
 This application demonstrates how to set up a DDD application using typescript. It includes:
 
-- Jest.
-- Typescript.
+- Jest
+- Typescript
 - Aggregate
 - Value Objects
-- Domain Services.
+- Domain Services
 - Repositories
 - Domain Events
 - Modules
